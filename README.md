@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Safaet Jaman Arman.</h1>
-<!-- <h3 align="center">I am a passionate Software Engineer, Currently working on modern web applications and enthusiast in devops in cloud computing</h3> -->
+
+## 👨🏻‍💻 About Me:
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+<!-- <h3 align="center">I am a passionate Software Engineer, Currently working on modern web applications and enthusiast in DevOps in cloud computing</h3> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monjurul0007" alt="monjurul0007" /></a> </p> -->
 
@@ -10,7 +14,7 @@
 
 - 📫 How to reach me **esafaetjaman@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1jvUcH3dWiPx6x3LTbTo9Veadci3raYdx/view?usp=sharing" target="_blank">here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yzE5zvmd6pZeL5rdoi5tdzMx6J7Xv1hx/view?usp=drive_link" target="_blank">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +25,7 @@
 <a href="https://www.leetcode.com/safaet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="safaet" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
 <!--   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -38,8 +42,13 @@
 <!--   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  -->
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monjurul0007&show_icons=true&locale=en&layout=compact" alt="monjurul0007" /></p> --!>
+## 📊 My GitHub Data:
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monjurul0007&show_icons=true&locale=en" alt="monjurul0007" /></p> --!>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safaet&" alt="safaet" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safaet&show_icons=true&locale=en&layout=compact" alt="safaet" /></p>
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safaet&show_icons=true&locale=en" alt="safaet" /></p>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safaet&" alt="safaet" /></p>
+</div>
