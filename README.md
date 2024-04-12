@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Safaet Jaman Arman.</h1>
 
 ## 👨🏻‍💻 About Me:
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="src/gifs/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 <!-- <h3 align="center">I am a passionate Software Engineer, Currently working on modern web applications and enthusiast in DevOps in cloud computing</h3> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monjurul0007" alt="monjurul0007" /></a> </p> -->
 
 
-- 👯 I’m looking to collaborate on **any opensource project related with Python, Django**
+- 👯 I’m looking to collaborate on **Any opensource project related with Python, Django and Artificial Intelligence**
 
-- 💬 Ask me about **Python Django, Machine Learning**
+- 💬 Ask me about **Python Django, Machine Learning, Artificial Intelligence**
 
 - 📫 How to reach me **esafaetjaman@gmail.com**
 
@@ -23,7 +23,7 @@
 <a href="https://www.hackerrank.com/profile/C191098_B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="safaet" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/safaetjaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="safaet" height="30" width="40" /></a>
 <a href="https://leetcode.com/safaet97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="safaet" height="30" width="40" /></a>
-<a href="https://www.stopstalk.com/user/profile/safaet" target="blank"><img align="center" src="./stopstalk-large-colored.svg" alt="safaet" height="30" width="40" /></a>
+<a href="https://www.stopstalk.com/user/profile/safaet" target="blank"><img align="center" src="src/icons/stopstalk-large-colored.svg" alt="safaet" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/safaetjaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="safaet" height="30" width="40" /></a>
 </p>
 
