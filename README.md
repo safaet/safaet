@@ -3,14 +3,14 @@
 ## 👨🏻‍💻 About Me:
 <img  src="src/gifs/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-<!-- <h3 align="center">I am a passionate Software Engineer, Currently working on modern web applications and enthusiast in DevOps in cloud computing</h3> -->
+<!-- <h3 align="center">I am a passionate Software Engineer, Currently working on modern web applications, and an enthusiast in DevOps in cloud computing</h3> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monjurul0007" alt="monjurul0007" /></a> </p> -->
 
 
-- 👯 I’m looking to collaborate on **Any opensource project related with Python, Django and Artificial Intelligence**
+- 👯 I’m looking to collaborate on **Any opensource project related to Python, Django, and Artificial Intelligence**
 
-- 💬 Ask me about **Python Django, Machine Learning, Artificial Intelligence**
+- 💬 Ask me about **Python, Django, FastAPI, Machine Learning, Artificial Intelligence**
 
 - 📫 How to reach me **esafaetjaman@gmail.com**
 
