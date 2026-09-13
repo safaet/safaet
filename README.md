@@ -1,13 +1,16 @@
 <!-- ═══════════════════════════════════════════════════════════
      SAFAET JAMAN ARMAN — GitHub Profile README
      Repository: github.com/safaet/safaet (username/username)
-     Last updated: May 2026
+     Last updated: September 2026
 ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-  <!-- Typing animation header -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Safaet+Jaman+Arman;ML+Researcher+%7C+AI+Developer;Medical+AI+for+South+Asia;ECCT+2026+Oral+Presenter)](https://git.io/typing-svg)
+  <!-- Animated waving header banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=180&section=header&text=Safaet%20Jaman%20Arman&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20NLP%20Researcher&descAlignY=58&descSize=16&descColor=ffffff" />
+
+  <!-- Typing animation subtitle -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=ML+Researcher+%7C+AI+Developer;Medical+AI+%26+Bengali+NLP;ECCT+2026+Paper+Presenter)](https://git.io/typing-svg)
 
   <br/>
 
@@ -23,16 +26,35 @@
 
 ## 🔬 About Me
 
-I am a **Machine Learning researcher and Python developer** based in Chattogram, Bangladesh.
-My work focuses on applying AI to healthcare problems in South Asian clinical settings —
-a domain where global models consistently underperform due to the absence of local patient data.
+I am an **AI/ML Engineer and NLP researcher**, final-year CS student at IIUC, based in Chattogram,
+Bangladesh. My work centers on two underserved problems: **low-resource Bengali NLP** (severely
+under-resourced despite 230M+ speakers) and **Medical AI for South Asian clinical settings**, where
+global models consistently underperform due to the absence of local patient/language data.
 
-- 🧬 **Research:** AMR prediction using ML — **Accepted for Oral Presentation at ECCT 2026** · Publishing in Taylor & Francis Book
-- 🤖 **Specialisation:** Medical AI · Biomedical NLP · Clinical Machine Learning
+- ⏳ **Experience:** 2+ years in AI/ML — from LLM automation workflows to production RAG systems and clinical ML research
+- 🧬 **Research:** AMR resistance prediction using ML — **Accepted (paper presentation) at ECCT 2026**
+- 🌏 **Specialisation:** Low-Resource Bengali NLP · Medical AI · LLM/RAG Engineering · Clinical Machine Learning
 - 🎓 **Education:** BSc CSE — International Islamic University Chittagong (IIUC)
 - 📬 **Reach me:** [esafaetjaman@gmail.com](mailto:esafaetjaman@gmail.com)
-- 💼 **Open to:** Freelance ML/Python projects · Research collaborations · MS/PhD opportunities
-- 🌐 **Portfolio:** [github.com/safaet](https://github.com/safaet)
+- 💼 **Open to:** AI/ML Engineer roles · NLP/LLM research positions · MS/PhD & scholarship opportunities (DAAD/GKS/MEXT/CSC)
+- 🌐 **Portfolio:** [safaet.github.io/Personal_portfolio](https://safaet.github.io/Personal_portfolio/) · [github.com/safaet](https://github.com/safaet)
+
+---
+
+## ⚡ Quick Highlights
+
+- 🧑‍🔬 Co-authored a peer-reviewed AMR prediction paper **accepted at ECCT 2026**, built in collaboration with **icddr,b**
+- 👥 **Technical Lead, AI/ML** at Neuralis AI — leading a 4-person team designing a Bengali-language RAG pipeline end-to-end
+- 🚀 Took the AMR research ensemble from paper to a **live public app** ([ResistomeX](https://github.com/safaet/ResistomeX))
+- 🥇 4th Place — IIUC Intra-University Programming Contest, Autumn 2022 · Kaggle Titanic — Rank 1003 globally
+
+---
+
+## 💼 Experience
+
+- **Technical Lead, AI/ML — Neuralis AI** *(Aug 2026 – Present)* — Leading a 4-person team building a Bengali-language RAG chatbot; own the full ML/backend architecture (two-stage retrieval, hallucination-refusal gate, RAGAS-based evaluation).
+- **AI Engineer — Neuralis AI** *(prior to Aug 2026)* — Built a production multilingual conversational AI RAG backend (FastAPI, PostgreSQL, bge-m3 retrieval + reranking, grounded generation with citations).
+- **Junior AI/ML Engineer — Code Owls** *(Jul 2024 – May 2025)* — Developed LangChain/LangSmith Generative AI workflows and FastAPI automation pipelines in an Agile team.
 
 ---
 
@@ -40,8 +62,7 @@ a domain where global models consistently underperform due to the absence of loc
 
 | Paper | Venue | Status |
 |---|---|---|
-| Antimicrobial Resistance Prediction using Machine Learning on South Asian Clinical Data | IEEE Conference | ✅ Accepted · Publishing Dec 2026 |
-| Dengue Outbreak Prediction using ML (Bangladesh) | Thesis | 🔄 In Progress |
+| AMR Prediction via SVM-XGBoost Ensemble with a novel Resistome Burden Index (RBI) — in collaboration with icddr,b | ECCT 2026 (Engineering, Computing & Communication Technologies) | ✅ Accepted — camera-ready submitted |
 
 > **Research focus:** Filling the South Asian clinical data gap in global ML research.
 > AMR kills 1.3M+ annually — our models are trained on the wrong populations.
@@ -52,11 +73,12 @@ a domain where global models consistently underperform due to the absence of loc
 
 | Project | Description | Stack |
 |---|---|---|
-| [🦠 AMR Prediction](https://github.com/safaet/amr-prediction) | IEEE-accepted ML research on antimicrobial resistance | Python · scikit-learn · pandas |
-| [💼 JooJobs](https://github.com/safaet/joojobs) | AI-powered CV generation and LinkedIn profile analysis | Python · OpenAI API · Django |
-| [🦟 Dengue Prediction](https://github.com/safaet/dengue-prediction) | ML outbreak prediction model for Bangladesh districts | Python · XGBoost · GeoPandas |
-| [🏫 School Management](https://github.com/safaet/school-management) | Full-stack school administration system | Django · PostgreSQL · Bootstrap |
-| [🤖 AI Lesson Planner](https://github.com/safaet/ai-lesson-planner) | Automated lesson plan generation using LLM APIs | Python · Claude API |
+| [🦠 AMR Resistome Prediction](https://github.com/safaet/AMR-Prediction) | ECCT 2026-accepted SVM-XGBoost ensemble with a novel Resistome Burden Index (RBI) feature, built on an icddr,b clinical genomic dataset | Python · scikit-learn · XGBoost · pandas |
+| [🌐 ResistomeX](https://github.com/safaet/ResistomeX) | Live Streamlit app productizing the AMR research ensemble for public, interactive resistance-phenotype prediction | Python · Streamlit · scikit-learn · XGBoost |
+| 🌪️ Multimodal Disaster Severity Classifier | Late-fusion EfficientNet-B3 (image) + XLM-RoBERTa (text) classifier for bilingual (Bengali/English) disaster response | PyTorch · HuggingFace · EfficientNet-B3 |
+| 🈶 Bangla Text/Image Classification | BanglaBERT, mBERT, and multimodal fusion experiments for Bengali text/image classification (Kaggle) | PyTorch · BanglaBERT · mBERT |
+| [🔎 DevSearch](https://github.com/safaet/DevSearch) | Full-stack developer portfolio & skill-matching platform, deployed on AWS | Django · JavaScript · AWS |
+| 🏏 CricketScrapper | Web scraper collecting and structuring live cricket data from Cricbuzz | Python · BeautifulSoup |
 
 ---
 
@@ -121,11 +143,13 @@ a domain where global models consistently underperform due to the absence of loc
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/safaet-jaman)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://safaet.github.io/Personal_portfolio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esafaetjaman@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/safaetjaman)
+[![Stopstalk](https://img.shields.io/badge/Stopstalk-2563EB?style=for-the-badge&logoColor=white)](https://www.stopstalk.com/user/profile/safaet)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/safaet97/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/safaetjaman)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/C191098_B)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esafaetjaman@gmail.com)
 
 </div>
 
@@ -133,16 +157,13 @@ a domain where global models consistently underperform due to the absence of loc
 
 ## 💡 Currently
 
-```python
-safaet = {
-    "working_on":    ["AMR ML research", "Medical AI pipeline", "Freelance AI tools"],
-    "learning":      ["Federated Learning", "Biomedical NLP", "LoRA fine-tuning"],
-    "looking_for":   ["MS/PhD in Medical AI", "Research collaborations", "Freelance ML projects"],
-    "ieee_paper":    "Accepted — Publishing December 2026",
-    "ask_me_about":  ["Python", "Machine Learning", "Django", "LLM APIs", "Medical AI"],
-    "fun_fact":      "Medical AI trained on Western data fails in Bangladesh — I'm fixing that."
-}
-```
+- 🔨 **Building:** Bengali-language RAG chatbot (Neuralis AI) · Bengali NLP research · Medical AI pipelines
+- 📚 **Learning:** LangGraph multi-agent systems · PEFT/LoRA fine-tuning · MLOps (Docker, wandb)
+- 🎯 **Looking for:** AI/ML Engineer roles · MS/PhD in NLP or Medical AI · Research collaborations
+- 📄 **ECCT 2026 paper:** Accepted — camera-ready submitted <!-- TODO: confirm final publication date -->
+- 💬 **Ask me about:** Python · Bengali NLP · RAG/LLM Engineering · Django/FastAPI · Medical AI
+
+> 230M+ people speak Bengali, and it's still one of the most under-resourced languages in NLP — I'm working on that.
 
 ---
 
