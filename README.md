@@ -20,6 +20,11 @@
   <!-- Followers badge -->
   [![GitHub followers](https://img.shields.io/github/followers/safaet?label=Followers&style=flat&color=2563EB)](https://github.com/safaet)
 
+  <br/><br/>
+
+  <!-- Resume download -->
+  [![Resume](https://img.shields.io/badge/📄_Download_Resume-2563EB?style=for-the-badge&logoColor=white)](https://github.com/safaet/safaet/blob/main/src/documents/Safaet_Jaman_Arman_Resume.pdf)
+
 </div>
 
 ---
@@ -32,9 +37,8 @@ under-resourced despite 230M+ speakers) and **Medical AI for South Asian clinica
 global models consistently underperform due to the absence of local patient/language data.
 
 - ⏳ **Experience:** 2+ years in AI/ML — from LLM automation workflows to production RAG systems and clinical ML research
-- 🧬 **Research:** AMR resistance prediction using ML — **Accepted (paper presentation) at ECCT 2026**
 - 🌏 **Specialisation:** Low-Resource Bengali NLP · Medical AI · LLM/RAG Engineering · Clinical Machine Learning
-- 🎓 **Education:** BSc CSE — International Islamic University Chittagong (IIUC)
+- 🎓 **Education:** BSc CSE — International Islamic University Chittagong (IIUC) · Expected graduation: 2026
 - 📬 **Reach me:** [esafaetjaman@gmail.com](mailto:esafaetjaman@gmail.com)
 - 💼 **Open to:** AI/ML Engineer roles · NLP/LLM research positions · MS/PhD & scholarship opportunities (DAAD/GKS/MEXT/CSC)
 - 🌐 **Portfolio:** [safaet.github.io/Personal_portfolio](https://safaet.github.io/Personal_portfolio/) · [github.com/safaet](https://github.com/safaet)
@@ -73,12 +77,12 @@ global models consistently underperform due to the absence of local patient/lang
 
 | Project | Description | Stack |
 |---|---|---|
-| [🦠 AMR Resistome Prediction](https://github.com/safaet/AMR-Prediction) | ECCT 2026-accepted SVM-XGBoost ensemble with a novel Resistome Burden Index (RBI) feature, built on an icddr,b clinical genomic dataset | Python · scikit-learn · XGBoost · pandas |
-| [🌐 ResistomeX](https://github.com/safaet/ResistomeX) | Live Streamlit app productizing the AMR research ensemble for public, interactive resistance-phenotype prediction | Python · Streamlit · scikit-learn · XGBoost |
-| 🌪️ Multimodal Disaster Severity Classifier | Late-fusion EfficientNet-B3 (image) + XLM-RoBERTa (text) classifier for bilingual (Bengali/English) disaster response | PyTorch · HuggingFace · EfficientNet-B3 |
-| 🈶 Bangla Text/Image Classification | BanglaBERT, mBERT, and multimodal fusion experiments for Bengali text/image classification (Kaggle) | PyTorch · BanglaBERT · mBERT |
+| [🦠 AMR Resistome Prediction](https://github.com/safaet/AMR-Prediction) | SVM-XGBoost ensemble with a novel Resistome Burden Index (RBI) feature, built on an icddr,b clinical genomic dataset | Python · scikit-learn · XGBoost · pandas |
+| [🌐 ResistomeX](https://github.com/safaet/ResistomeX) | Live Streamlit app productizing the AMR research ensemble — avg. F1 of 0.9421 across 12 antibiotic-pathogen datasets | Python · Streamlit · scikit-learn · XGBoost |
+| 🌪️ Multimodal Disaster Severity Classifier *(Colab — not on GitHub)* | Late-fusion EfficientNet-B3 (image) + XLM-RoBERTa (text) classifier for bilingual (Bengali/English) disaster response | PyTorch · HuggingFace · EfficientNet-B3 |
+| 🈶 Bangla Text/Image Classification *(Kaggle — not on GitHub)* | BanglaBERT, mBERT, and multimodal fusion experiments for Bengali text/image classification | PyTorch · BanglaBERT · mBERT |
 | [🔎 DevSearch](https://github.com/safaet/DevSearch) | Full-stack developer portfolio & skill-matching platform, deployed on AWS | Django · JavaScript · AWS |
-| 🏏 CricketScrapper | Web scraper collecting and structuring live cricket data from Cricbuzz | Python · BeautifulSoup |
+| 🏏 CricketScrapper *(repo not public)* | Web scraper collecting and structuring live cricket data from Cricbuzz | Python · BeautifulSoup |
 
 ---
 
@@ -142,6 +146,7 @@ global models consistently underperform due to the absence of local patient/lang
 
 <div align="left">
 
+[![Resume](https://img.shields.io/badge/📄_Resume-2563EB?style=for-the-badge&logoColor=white)](https://github.com/safaet/safaet/blob/main/src/documents/Safaet_Jaman_Arman_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/safaet-jaman)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://safaet.github.io/Personal_portfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esafaetjaman@gmail.com)
@@ -160,10 +165,9 @@ global models consistently underperform due to the absence of local patient/lang
 - 🔨 **Building:** Bengali-language RAG chatbot (Neuralis AI) · Bengali NLP research · Medical AI pipelines
 - 📚 **Learning:** LangGraph multi-agent systems · PEFT/LoRA fine-tuning · MLOps (Docker, wandb)
 - 🎯 **Looking for:** AI/ML Engineer roles · MS/PhD in NLP or Medical AI · Research collaborations
-- 📄 **ECCT 2026 paper:** Accepted — camera-ready submitted <!-- TODO: confirm final publication date -->
 - 💬 **Ask me about:** Python · Bengali NLP · RAG/LLM Engineering · Django/FastAPI · Medical AI
 
-> 230M+ people speak Bengali, and it's still one of the most under-resourced languages in NLP — I'm working on that.
+> Fixing the low-resource Bengali NLP gap, one experiment at a time.
 
 ---
 
