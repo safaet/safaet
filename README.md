@@ -7,7 +7,7 @@
 <div align="center">
 
   <!-- Typing animation header -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Safaet+Jaman+Arman;ML+Researcher+%7C+AI+Developer;Medical+AI+for+South+Asia;IEEE+Published+Researcher)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Safaet+Jaman+Arman;ML+Researcher+%7C+AI+Developer;Medical+AI+for+South+Asia;ECCT+2026+Oral+Presenter)](https://git.io/typing-svg)
 
   <br/>
 
@@ -27,7 +27,7 @@ I am a **Machine Learning researcher and Python developer** based in Chattogram,
 My work focuses on applying AI to healthcare problems in South Asian clinical settings —
 a domain where global models consistently underperform due to the absence of local patient data.
 
-- 🧬 **Research:** AMR prediction using ML — **IEEE Conference paper accepted** (Publishing Dec 2026)
+- 🧬 **Research:** AMR prediction using ML — **Accepted for Oral Presentation at ECCT 2026** · Publishing in Taylor & Francis Book
 - 🤖 **Specialisation:** Medical AI · Biomedical NLP · Clinical Machine Learning
 - 🎓 **Education:** BSc CSE — International Islamic University Chittagong (IIUC)
 - 📬 **Reach me:** [esafaetjaman@gmail.com](mailto:esafaetjaman@gmail.com)
